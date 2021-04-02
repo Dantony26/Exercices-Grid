@@ -1,7 +1,7 @@
 .grid-container {
     display: grid;
     justify-content: center;
-    grid: 10em 3em 4em / 20% 20% 20% 20%;
+    grid: 10em 3em 4em / repeat(4, 20%);
     grid-row-gap: 2em;
     grid-column-gap: 2em;
     color: white;
@@ -27,7 +27,7 @@
 }
 .grid6 {
     background-color: #D96E2A;
-    grid-column: 4 / 4;
+    grid-column: 4 / 5;
 }
 .grid7 {
     background-color: #DE3F3E;
