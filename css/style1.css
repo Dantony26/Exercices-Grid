@@ -1,0 +1,39 @@
+.grid-container {
+    display: grid;
+    justify-content: center;
+    grid: 200px 50px 100px / 400px 400px 400px;
+    grid-row-gap: 2em;
+    grid-column-gap: 2em;
+    color: white;
+    text-align: center;   
+}
+.grid1, .grid2, .grid3, .grid4, .grid5, .grid6, .grid7,.grid8, .grid9 {
+    padding-top: 1rem;
+} 
+.grid1 {
+    background-color: darkred;
+}
+.grid2 {
+    background-color: cyan;
+}
+.grid3 {
+    background-color: greenyellow;
+}
+.grid4 {
+    background-color: purple;
+}
+.grid5 {
+    background-color: orange;
+}
+.grid6 {
+    background-color: turquoise;
+}
+.grid7 {
+    background-color: red;
+}
+.grid8 {
+    background-color: green;
+}
+.grid9 {
+    background-color: darkblue;
+}
