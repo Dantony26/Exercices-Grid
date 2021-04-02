@@ -11,29 +11,30 @@
     padding-top: 1rem;
 } 
 .grid1 {
-    background-color: darkred;
+    background-color: #AE3531;
 }
 .grid2 {
-    background-color: cyan;
+    background-color: #32A7A4;
 }
 .grid3 {
-    background-color: greenyellow;
+    background-color: #30997A;
 }
 .grid4 {
-    background-color: purple;
+    background-color: #6A478F;
 }
 .grid5 {
-    background-color: orange;
+    background-color: #D96E2A;
 }
 .grid6 {
-    background-color: turquoise;
+    background-color: #D96E2A;
+
 }
 .grid7 {
-    background-color: red;
+    background-color: #DE3F3E;
 }
 .grid8 {
-    background-color: green;
+    background-color: #59A527;
 }
 .grid9 {
-    background-color: darkblue;
+    background-color: #4465A0;
 }
